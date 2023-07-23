@@ -2,6 +2,8 @@
 
 This repository contains a PHP script that automates the process of creating backups of a Drupal database using Drush. The script presents the created backups in a web page, showing details such as the last modification time and file size, and provides an easy download option. The script also includes basic HTTP authentication for added security.
 
+![Alt text for the image](https://github.com/isalmanhaider/drupal-db-backup-script/blob/main/assets/screenshot.png)
+
 ## Requirements
 
 Before using this script, please ensure you have the following installed:
